@@ -131,3 +131,7 @@ dmypy.json
 # Image files
 
 *.jpg
+# MAC files
+
+.DS_store
+
